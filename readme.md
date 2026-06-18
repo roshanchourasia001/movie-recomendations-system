@@ -8,7 +8,7 @@ A Machine Learning-based Movie Recommendation System that suggests movies simila
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 
 <p align="center">
-  <a href="https://ipl-score-prediction-roshan.streamlit.app/">
+  <a href="https://movie-recomendations-system.streamlit.app/">
     <img src="static/click.webp" alt="IPL Score Predictor" width="300">
   </a>
 </p>
