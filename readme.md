@@ -3,6 +3,18 @@
 
 A Machine Learning-based Movie Recommendation System that suggests movies similar to the one selected by the user. The project uses movie metadata and similarity scores to recommend relevant movies and display their posters.
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+
+<p align="center">
+  <a href="https://ipl-score-prediction-roshan.streamlit.app/">
+    <img src="static/click.webp" alt="IPL Score Predictor" width="300">
+  </a>
+</p>
+
+
+
 ## 🚀 Features
 
 * Recommend movies based on similarity scores
@@ -10,6 +22,7 @@ A Machine Learning-based Movie Recommendation System that suggests movies simila
 * Fetch movie posters dynamically
 * Fast movie search and recommendations
 * Machine Learning-powered recommendation engine
+* Trailer of Each Movie
 
 ## 🛠️ Technologies Used
 
@@ -25,11 +38,11 @@ A Machine Learning-based Movie Recommendation System that suggests movies simila
 ```text
 movie-recomder-system/
 │
-├── appy.py
+├── streamlit_app.py
 ├── movie_list.pkl
 ├── similarity.pkl
 ├── requirements.txt
-├── ap.ipynb
+├── main.ipynb
 └── README.md
 ```
 
@@ -58,12 +71,14 @@ pip install -r requirements.txt
 4. Run the application:
 
 ```bash
-streamlit run appy.py
+streamlit run streamlit_app.py
 ```
 
 ## 📸 Demo
 
-Add screenshots of your application here.
+![ss1](static/ss1.png)
+![ss0](static/ss0.png)
+
 
 ## 📈 How It Works
 ![working](static/movie_rec02.jpg)
@@ -75,8 +90,9 @@ Add screenshots of your application here.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+![roshan](static/coding.gif)
 
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 
 ## Connect With Me
