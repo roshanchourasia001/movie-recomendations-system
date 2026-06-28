@@ -7,7 +7,7 @@ import requests
 def fetch_poster(movie_id):
     url = f"https://api.themoviedb.org/3/movie/{movie_id}"
     params = {
-        "api_key": "",
+        "api_key": "MY_API_KEY",
         "language": "en-US"
     } 
 
